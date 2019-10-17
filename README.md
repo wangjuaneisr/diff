@@ -13,7 +13,9 @@ createElement =>{type,props,children}
 
 
 #### 
-广度优先原则
+节点树的遍历
+对比的时候：先序广度优先
+渲染的时候：后序广度优先
 
 
 
